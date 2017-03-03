@@ -11,8 +11,8 @@
 假如微軟重新改寫Excel，並且UI都長的一樣的話，對使用者來說根本感覺不出差異性，這個改寫excel的事情來說就是對使用者來說具有`transparent`的特性
 
 以這篇文章的例子來說：
-> [Edinburgh] is bigger than a mouse is true.
-> [Scotlands capital] is bigger than a mouse” is still true.
+> [Edinburgh] is bigger than a mouse is true.  
+> [Scotlands capital] is bigger than a mouse” is still true.  
 > [The city at 56N 3W] is bigger than a mouse” is also true.
 
 這幾個例子[]內的就是reference, 如果不管reference在怎麼換，結果都對的話，那這幾個句子都具有Referential Transparency的特性
