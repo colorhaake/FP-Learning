@@ -40,7 +40,8 @@ const wrap = (val) => new Wrapper(val);
 
 
 ## Functor
-Functor is a powerful wrapper. A functor is an object that can be mapped or has a map method.
+Functor is a powerful wrapper.  
+A functor is an object that can be mapped or has a map method.  
 And functor obeys the functor laws.  
 1. The identity law: `functor.map(a => a)` is equivalent to `functor`
 2. The composition law: `functor.map(x => f(g(x)))` is equivalent to `functor.map(g).map(f)`
